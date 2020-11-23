@@ -36,6 +36,8 @@ n o t e : You might need to use pip3 instead of pip when installing packages. Al
 After you’ve installed the necessary packages, test your installation by start- ing a terminal session with the python or python3 command and importing matplotlib:
 
 $ python3
-import matplotlib
+
+>>> import matplotlib
+>>>
 
 If you don’t see any error messages, then matplotlib is installed on your system, and you can move on to the next section.
