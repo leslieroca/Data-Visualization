@@ -37,7 +37,6 @@ After you’ve installed the necessary packages, test your installation by start
 
 $ python3
 
->>> import matplotlib
->>>
+import matplotlib
 
-If you don’t see any error messages, then matplotlib is installed on your system, and you can move on to the next section.
+If you don’t see any error messages, just ">>>", then matplotlib is installed on your system, and you can move on to the next section.
