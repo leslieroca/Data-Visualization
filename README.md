@@ -41,3 +41,16 @@ import matplotlib
 
 If you don’t see any error messages, just ">>>", then matplotlib is installed on your system, and you can move on to the next section.
 testing mat
+
+
+# Installing Pygal
+On Linux and OS X, this should be something like:
+
+pip install --user pygal
+
+On Windows, this should be:
+
+python -m pip install --user pygal
+
+# Note
+You may need to use the command pip3 instead of pip if you are using python3, and if the command still doesn’t work you may need to leave off the --user flag.
