@@ -1,6 +1,6 @@
 import pygal
 
-from die import Die
+from rolling_dice.die import Die
 
 # Create a D6
 die = Die()
