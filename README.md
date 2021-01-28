@@ -35,7 +35,7 @@ NOTE: If you don't have pip installed, got to this page https://vgkits.org/blog/
 
 $ pip install --user matplotlib
 
-n o t e : You might need to use pip3 instead of pip when installing packages. Also, if this command doesn’t work, you 
+NOTE: You might need to use pip3 instead of pip when installing packages. Also, if this command doesn’t work, you 
 might need to leave off the --user flag.
 
 
