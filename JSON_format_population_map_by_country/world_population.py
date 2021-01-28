@@ -4,7 +4,7 @@ from pygal.maps.world import World
 
 from pygal.style import LightColorizedStyle as LCS, RotateStyle as RS
 
-from country_codes import get_country_code
+from JSON_format_population_map_by_country.country_codes import get_country_code
 
 
 # Load the data into a list.
