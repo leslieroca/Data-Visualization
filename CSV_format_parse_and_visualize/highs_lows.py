@@ -2,7 +2,6 @@ import csv
 from datetime import datetime
 from matplotlib import pyplot as plt
 
-
 # Get dates, high, and low temperatures from the input file.
 filename = 'death_valley_2014.csv'
 
@@ -28,7 +27,6 @@ fig = plt.figure(dpi=128, figsize=(10, 6))
 plt.plot(dates, highs, c='red', alpha=0.5)
 plt.plot(dates, lows, c= 'blue', alpha=0.5)
 plt.fill_between(dates, highs, lows, facecolor='blue', alpha=0.1)
-
 
 # Format plot.
 title = "Daily high and low temperatures - 2014\nDeath Valley, CA"
