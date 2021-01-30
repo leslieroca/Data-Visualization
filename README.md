@@ -64,3 +64,11 @@ python -m pip install --user pygal
 # Note
 You may need to use the command pip3 instead of pip if you are using python3, and if the command still doesn’t work you 
 may need to leave off the --user flag.
+
+
+# Installing Requests
+
+$ python -m pip install --user requests
+
+NOTE: If this command doesn’t work on macOS, try running the command again 
+without the --user flag.
