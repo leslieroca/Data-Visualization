@@ -18,7 +18,7 @@ for repo_dict in repo_dicts:
 
 # Make visualization.
 data =[{
-    'tipe': 'bar',
+    'type': 'bar',
     'x': repo_names,
     'y': stars
 }]
